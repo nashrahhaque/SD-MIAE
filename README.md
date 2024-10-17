@@ -42,5 +42,5 @@ python sdmiae.py --img_size 128 --guidance_scale 9.5 --epsilon 0.2 --mu 1.0 --nu
 
 The generated adversarial examples will be saved in the `results/` directory, organized by class label. Each adversarial image is saved as `sample_{j:02d}.png` within its respective class folder.
 
-This novel framework is built upon the work of [SD-NAE](https://openreview.net/forum?id=D87rimdkGd).
+This framework is built upon the work of [SD-NAE](https://openreview.net/forum?id=D87rimdkGd).
 
