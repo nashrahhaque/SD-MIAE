@@ -20,7 +20,7 @@ To set up the environment for using SDMIAE, follow these steps:
 3. **Install the necessary dependencies:**
 
     ```bash
-    python -m pip install torch torchvision torchaudio  # Version 2.1.0 or later
+    python -m pip install torch torchvision torchaudio  
     python -m pip install xformers diffusers transformers accelerate pandas
     ```
 
