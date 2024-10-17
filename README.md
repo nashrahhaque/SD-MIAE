@@ -1,5 +1,5 @@
 # SDMIAE: Stable Diffusion-based Momentum Integrated Adversarial Examples
-This repository contains the implementation of the **SDMIAE** attack, which applies momentum-based iterative adversarial perturbations to images generated using the **Stable Diffusion** model. The aim is to generate adversarial examples that can mislead a pre-trained classifier while using Stable Diffusion for image generation.
+This repository contains the implementation of the **SDMIAE** attack, which applies momentum-based iterative adversarial perturbations to images generated using the **Stable Diffusion** model. The aim is to generate adversarial examples that can mislead a pre-trained classifier while maintaining imperceptibility using Stable Diffusion for image generation.
 
 ## **Setup Instructions**
 
